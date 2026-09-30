@@ -1,6 +1,6 @@
 # Computational Intelligence & Metaheuristic Optimization Algorithms
 
-This repository contains Python implementations, execution reports, and problem specifications for **7 Computational Intelligence & Optimization assignments** completed for the **Computational Intelligence (CI)** course at the Faculty of Computers and Artificial Intelligence, Cairo University (OR&DS Dept).
+This repository contains Python and C++ implementations, execution reports, and problem specifications for **7 Computational Intelligence & Optimization assignments** completed for the **Computational Intelligence (CI)** course at the Faculty of Computers and Artificial Intelligence, Cairo University (OR&DS Dept).
 
 Each folder represents an individual assignment containing the **Source Code**, the **Assignment Specification (PDF)**, and the **Analytical Performance Report**.
 
@@ -37,5 +37,7 @@ Each folder represents an individual assignment containing the **Source Code**, 
 * **Techniques:** Nature-inspired metaheuristic using **Lévy Flights** (random walks with heavy-tailed steps), Nest abandonment probability ($p_a = 0.25$), and Global optimum convergence.
 
 ---
- 
+
+ ## Tools & Technologies
 **Languages:** Python, C++
+**Key Concepts:** Genetic Algorithms, Swarm Intelligence, Metaheuristics, Direct Search, Constraint Handling
