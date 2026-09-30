@@ -39,5 +39,5 @@ Each folder represents an individual assignment containing the **Source Code**, 
 ---
 
  ## Tools & Technologies
-**Languages:** Python, C++
-**Key Concepts:** Genetic Algorithms, Swarm Intelligence, Metaheuristics, Direct Search, Constraint Handling
+* **Languages:** Python, C++
+* **Key Concepts:** Genetic Algorithms, Swarm Intelligence, Metaheuristics, Direct Search, Constraint Handling
